@@ -1,0 +1,29 @@
+/* Small helper CSS for the Home reels UI */
+.two-line-clamp {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* Ensure the overlay's gradient doesn't block clicks on the button */
+.overlay-gradient {
+  pointer-events: none;
+}
+
+/* Hide scrollbars for desktop */
+.reels-container {
+  scrollbar-width: none; /* Firefox */
+}
+
+.reels-container::-webkit-scrollbar {
+  display: none; /* Chrome, Safari, Edge */
+}
+
+/* Adjust 9:16 aspect ratio based on desktop viewport height */
+@media (min-width: 768px) {
+  .reels-container {
+    height: calc(100vh );
+    width: calc(100vh  * 9 / 16);
+  }
+}
