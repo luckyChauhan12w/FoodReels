@@ -7,6 +7,14 @@
 
 > A TikTok/Instagram-style food delivery application with AI-powered hand gesture controls using MediaPipe. Swipe through food reels hands-free!
 
+## 🚀 Live Demo
+
+**[🎬 Try FoodReels Live →](https://foodreels-rw3e.onrender.com)**
+
+> Experience hand gesture controls in action! Open palm to play, closed fist to pause, swipe up/down to navigate.
+
+---
+
 ## 🎥 Demo
 
 [![FoodReels Demo](https://ik.imagekit.io/gaxmekqtag/Zomato_Project_Videos/FoodReelVideoDemo.mp4)](https://ik.imagekit.io/gaxmekqtag/Zomato_Project_Videos/FoodReelVideoDemo.mp4)
