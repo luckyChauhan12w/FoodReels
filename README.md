@@ -264,7 +264,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Lucky Chauhan**
 - GitHub: [@luckyChauhan12w](https://github.com/luckyChauhan12w)
-- LinkedIn: [Lucky Chauhan](https://www.linkedin.com/in/your-profile)
+- LinkedIn: [Lucky Chauhan](https://www.linkedin.com/in/luckychauhandev/)
 
 ## 🙏 Acknowledgments
 
